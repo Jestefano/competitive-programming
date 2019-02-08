@@ -8,5 +8,6 @@ Through the process of searching the problems i found others that I solved witho
 - https://codeforces.com/problemset/problem/165/C
 - https://codeforces.com/problemset/problem/204/A
 - https://codeforces.com/problemset/problem/466/C
+- https://codeforces.com/problemset/problem/385/C
 
 This post is still under modification. 
