@@ -28,6 +28,11 @@ int main(){
 			}
 		}
 
+		
+		//In this problem we are trying to select a fix height of water and we check
+		//All the borders, whether it is possible for the water to scape from those places.
+		
+		
 		FOR(k,1,10001){
 			memset(vis,false,sizeof vis);
 			//Primera coordenada
