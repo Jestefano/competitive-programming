@@ -3,6 +3,8 @@ We tried only simple problems.
 The main objective was understanding the definition rather than solving tricky problems that involve this structures (this is going to be
 the objective of next week).
 
+Most of the problems are from CP3.
+
 Here are the problems:
 - https://www.spoj.com/problems/STACKEZ/en/
 - https://www.spoj.com/problems/QUEUEEZ/en/
