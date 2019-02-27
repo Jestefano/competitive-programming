@@ -3,7 +3,11 @@ There are going to be some problems that I consider are easier to solve with oth
 https://www.spoj.com/problems/MICEMAZE/) which is arguably easier to solve with Dijkstra or with Floyd–Warshall) and because of that I'm going to skip them.
 
 Without further a due, the tutorials for this week are:
+- https://www.geeksforgeeks.org/graph-and-its-representations/
 - https://cp-algorithms.com/graph/breadth-first-search.html
 - https://cp-algorithms.com/graph/01_bfs.html
 
 All the problems that I've solved are from those pages.
+
+This is the temporal contest:
+https://vjudge.net/contest/283574#rank
