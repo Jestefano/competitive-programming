@@ -9,7 +9,7 @@ So, this week we focus on DFS and some of its applications. The following are th
 - https://cp-algorithms.com/graph/bipartite-check.html
 - https://cp-algorithms.com/graph/topological-sort.html
 
-We also read CLSR's chapter 22 (with the exception of 22.5).
+We also read CLRS's chapter 22 (with the exception of 22.5).
 
 Don't get overwhelm by the amount of links, you can read all of it in less than 3-4 hours since they are not that long.
 
