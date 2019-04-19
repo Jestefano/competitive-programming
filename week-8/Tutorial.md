@@ -8,8 +8,7 @@ So, this week we focus on DFS and some of its applications. The following are th
 - https://cp-algorithms.com/graph/finding-cycle.html
 - https://cp-algorithms.com/graph/bipartite-check.html
 - https://cp-algorithms.com/graph/topological-sort.html
-
-We also read CLRS's chapter 22 (with the exception of 22.5).
+- Another way of doing (special) topological sort: [link](https://www.youtube.com/watch?v=tFpvX8T0-Pw&t=267s)
 
 Don't get overwhelm by the amount of links, you can read all of it in less than 3-4 hours since they are not that long.
 
