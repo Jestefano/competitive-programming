@@ -8,3 +8,8 @@ you can just google other similar tutorial.
 - https://cp-algorithms.com/graph/mst_prim.html
 - https://cp-algorithms.com/graph/mst_kruskal.html
 - https://cp-algorithms.com/graph/mst_kruskal_with_dsu.html
+
+Conclusions:
+
+- https://codeforces.com/blog/entry/15102 With this tutorial we can solve a more general kind of problem. 
+-
