@@ -30,16 +30,17 @@ void bellman_ford(int n, int m, int s){
 			}
 		}
 	}
-
+	
+	neg_cicle = false;
 	REP(j,m){
 		int w = edges[j].fst;
 		int node1 = edges[j].snd.fst, node2 = edges[j].snd.snd;
 		if(d[node1]==INF) continue;
 		if(d[node1]+w<d[node2]){
-			cout<<"?";
 			neg_cicle = true;
 		}
 	}
+	
 }
 
 int main(){
