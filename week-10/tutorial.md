@@ -4,4 +4,4 @@ The topics for this week are:
 - https://cp-algorithms.com/graph/bellman_ford.html
 - https://www.youtube.com/watch?v=7hFWrKa6yRM&feature=youtu.be
 - http://www.cs.cornell.edu/courses/cs482/2003su/handouts/greedy_exchange.pdf
-
+- https://www.youtube.com/watch?v=Oq1seKJvfQU
