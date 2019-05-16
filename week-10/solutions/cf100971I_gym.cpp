@@ -40,8 +40,8 @@ void dfs(){
 }
 
 bool comp(ii a, ii b){
-	if(a.fst!=b.fst) return a.fst>b.fst;
-	return a.snd>b.snd;
+	if(a.fst!=b.fst) return a.fst<b.fst;
+	return a.snd<b.snd;
 }
 
 bool dfs__(int node){
@@ -92,19 +92,19 @@ int main(){
 					dfs__(child);
 				}
 			}
-			vis[i] = 1;
-			timer+= c[i];
-			if(d[i]<timer){
+			vis[k[i].snd] = 1;
+			timer+= c[k[i].snd];
+			if(d[k[i].snd]<timer){
 				cout<<"NO"; return 0;
 			}
-			ans.pb(i);
+			ans.pb(k[i].snd);
 		}
 	}
 
 	cout<<"YES"<<endl;
 	REP(i,n){
 		if(i) cout<<" ";
-		cout<<ans[i];
+		cout<<ans[i]+1;
 	}
 
 	return 0;
