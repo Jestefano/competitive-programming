@@ -1,7 +1,11 @@
-For this week we focused on basic structures: Queue, stack, deque, set and map (both hash and balanced binary search tree). 
+For this week we focused on basic structures: Queue, stack, deque, set and map (both hash and balanced binary search tree). We also learned aboud complexity.
 We tried only simple problems.
 The main objective was understanding the definition rather than solving tricky problems that involve this structures (this is going to be
 the objective of next week).
+
+Resources:
+CP3 - Data Structures.
+Chapter 1-2-4 from Handbook.
 
 Most of the problems are from CP3.
 
