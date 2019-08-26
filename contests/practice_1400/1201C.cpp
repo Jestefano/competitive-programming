@@ -38,3 +38,11 @@ int main(){
  
 	return 0;
 }
+
+/*
+The idea of this problem is natural:
+First we sort the whole array and discard the left part of the array (since it is useless for this problem).
+After that we could start thinking about increasing each element one by one (decreasing k), but sooner than latter we realize that if we
+do so, the elements might change their order. This means that we have to update by blocks starting from the end. If it is possible
+to have all the elements up to certain height, we have to push all the way to even increase the value if necesary.
+*/
