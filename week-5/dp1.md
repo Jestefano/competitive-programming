@@ -3,11 +3,13 @@
 - Read:
 Read until intermediate from the following [topcoder](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/) tutorial. Also solve all the related problems.
 
+https://www.youtube.com/watch?v=YBSt1jYwVfU
+
+https://www.youtube.com/watch?v=1mtvm2ubHCY
+
 - Resources:
 This week I'm following almost all the problems from 
 [vplanet-coding](https://vplanetcoding.com/course2#698A)
-https://www.youtube.com/watch?v=YBSt1jYwVfU
-https://www.youtube.com/watch?v=1mtvm2ubHCY
 
 Specifically, focus on problems:
 - https://codeforces.com/problemset/problem/698/A
