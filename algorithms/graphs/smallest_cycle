@@ -1,0 +1,51 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+#define nax 100009
+#define FOR(i,n,m) for(ll i =(n);i<(m);i++)
+#define REP(i,n) FOR(i,0,n)
+#define pb push_back
+#define fst first
+#define snd second
+#define mp make_pair
+#define sz(v) int(v.size())
+#define all(v) v.begin() , v.end()
+
+typedef long long ll;
+typedef pair<ll,ll> ii;
+typedef vector<ll> vi;
+typedef vector<ii> vii;
+
+int main(){
+
+	//Smallest cycle:
+	int ans = n+1;
+	int p[nax], d[nax];
+	REP(i,n){
+		p[i] = -1;
+		d[i] = 0;
+		set<int> vis;
+		queue<int> q;
+		q.push(i);
+		while(!q.empty()){
+			int node = q.front();
+			vis.insert(node);
+			q.pop();
+			for(int u:v[node]){
+				if(p[node]==u) continue;
+				if(vis.count(u)){
+					ans = min(ans,d[node]+d[u]+1);
+				}else{
+					q.push(u);
+					d[u] = d[node] +1;
+					p[u] = node;
+				}
+			}
+		}
+	}
+  /*
+   O(V*(V+E))
+  */
+
+	return 0;
+}
