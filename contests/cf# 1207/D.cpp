@@ -1,3 +1,7 @@
+/*
+Learn to count the number of ways using permutations.
+And count the intersection respecting the fact that it has to be ordered.
+*/
 #include<bits/stdc++.h>
 using namespace std;
  
