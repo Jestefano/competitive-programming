@@ -1,3 +1,7 @@
+/*
+This is a linear programming problem
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
  
