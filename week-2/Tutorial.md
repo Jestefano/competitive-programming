@@ -1,6 +1,6 @@
 This week we focused on binary search and merge sort, also we started to memorize some macros. 
 
-We read the classic tutorial from [topcoder](https://web.archive.org/web/20180216130323/https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/).
+We read the classic tutorial from [topcoder](https://web.archive.org/web/20180216130323/https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/). Chapter 3 from Handbook.
 
 The problems that I collected are from that tutorial and from [this](https://codeforces.com/blog/entry/54526) CF entry.
 
