@@ -14,28 +14,27 @@ GCD/LCM
 
 Bezout:
 
-
-  Extended Euclidean Algorithm
+	Extended Euclidean Algorithm
   
 		Computes x and y from Bezout
     
-	Modular Inverse
+		Modular Inverse
   
-		Gcd extended
+			Gcd extended
     
-		Euler Theorem
+			Euler Theorem
     
-		For every element in an interval
+			For every element in an interval
     
 Linear Diophantine Equations
 
-		Find a solution using extended gcd -> modification
+	Find a solution using extended gcd -> modification
     
-		Find all solutions
+	Find all solutions
     
-		Solutions in a given interval
+	Solutions in a given interval
     
-		Min sol to x+y
+	Min sol to x+y
     
 	Linear Congruence Equation
   
